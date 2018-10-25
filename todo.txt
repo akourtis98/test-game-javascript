@@ -1,0 +1,4 @@
+When the user clicks on the button with the ID b2 the text of all the paragraphs should be replaced with the characters "*************"
+When the user clicks on the button with the ID b3 load in the same window the URL "www.google.com"
+When the user hovers the mouse cursor over any header, the color of that header's text should change color to RED
+When the content of the first input element changes you must open an alert modal window with the message "Why did you change that?"
